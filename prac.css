@@ -1,4 +1,8 @@
-
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
 #time-tablew4 {
     width: 100%;
     overflow-x: auto;
